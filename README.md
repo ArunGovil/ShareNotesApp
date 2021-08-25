@@ -2,7 +2,7 @@
 
 A minimal note sharing app for College built with React Native &amp; Firebase
 
-![](screen.jpg)
+![](screen.jpg =100x20)
 
 ### Follow the steps to run the App locally
 
