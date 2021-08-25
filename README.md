@@ -18,6 +18,10 @@ Run npm install command to fetch all dependencies and packages.
 
 `npm install`
 
-Connect your virtual device and start the app
+Start the npm server
 
 `npm start`
+
+Connect your virtual/physical device and start the app
+
+`npx react-native run-android
