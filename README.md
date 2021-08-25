@@ -18,7 +18,7 @@ Run npm install command to fetch all dependencies and packages.
 
 `npm install`
 
-Start the npm server
+Start the metro server
 
 `npm start`
 
