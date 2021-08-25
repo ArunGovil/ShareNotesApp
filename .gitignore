@@ -56,6 +56,6 @@ buck-out/
 *.jsbundle
 
 
-/ios
+
 /android
 /node_modules
