@@ -24,4 +24,4 @@ Start the npm server
 
 Connect your virtual/physical device and start the app
 
-`npx react-native run-android
+`npx react-native run-android`
