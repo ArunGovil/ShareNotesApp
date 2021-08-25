@@ -2,7 +2,7 @@
 
 A minimal note sharing app for College built with React Native &amp; Firebase
 
-<img src="https://github.com/ArunGovil/ShareNotesApp/blob/master/screen.jpg" width=400>
+<img src="https://github.com/ArunGovil/ShareNotesApp/blob/master/screen.jpg" width=500>
 
 ### Follow the steps to run the App locally
 
