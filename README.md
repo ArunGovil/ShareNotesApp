@@ -8,7 +8,7 @@ A minimal note sharing app for College built with React Native &amp; Firebase
 
 Clone the repository using your Terminal
 
-`git clone https://github.com/ArunGovil/multi-step-form`
+`git clone https://github.com/ArunGovil/ShareNotesApp`
 
 Once you have the repo in your local machine, cd into the folder.
 
